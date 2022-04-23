@@ -1,16 +1,28 @@
 {
     "deployments": {
-      "matic": {
-        "contractAddress": "",
-        "deployTimestamp": "",
-        "gitBranch": "",
-        "gitCommitHash": ""
-      },
-      "maticmum": {
-        "contractAddress": "",
-        "deployTimestamp": "",
-        "gitBranch": "",
-        "gitCommitHash": ""
-      }
+        "matic": {
+            "contractAddress": "",
+            "deployTimestamp": "",
+            "gitBranch": "",
+            "gitCommitHash": ""
+        },
+        "maticmum": {
+            "contractAddress": "",
+            "deployTimestamp": "",
+            "gitBranch": "",
+            "gitCommitHash": ""
+        },
+        "rinkeby": {
+            "contractAddress": "",
+            "deployTimestamp": "",
+            "gitBranch": "",
+            "gitCommitHash": ""
+        },
+        "ethereum": {
+            "contractAddress": "",
+            "deployTimestamp": "",
+            "gitBranch": "",
+            "gitCommitHash": ""
+        }
     }
-  }
+}
